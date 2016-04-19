@@ -1,7 +1,8 @@
 Android 笔记
 ======
 
-###<font color="#2196f3">框架</font>
+框架
+------
 #### 图片加载
 * [Glide](https://github.com/bumptech/glide)
 * [Fresco](http://fresco-cn.org/)
@@ -39,7 +40,8 @@ Android 笔记
 * [KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)
 
 
-###<font color="#2196f3">技术博客</font>
+技术博客
+------
 * [Android官方技术博客](http://android-developers.blogspot.com/)
 * [老罗的Android之旅](http://blog.csdn.net/luoshengyang)
 * [伯乐在线](http://android.jobbole.com/)
