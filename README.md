@@ -1,7 +1,7 @@
 Android 笔记
 ======
 
-框架
+技术框架
 ------
 #### 图片加载
 * [Glide](https://github.com/bumptech/glide)
@@ -76,12 +76,16 @@ Android 笔记
 * [stormzhang](http://stormzhang.com/)
 * [马天宇](https://github.com/litesuits)
 * [江清清的技术专栏](http://www.lcode.org/)
+* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+* [张涛-开源实验室](http://blog.kymjs.com/)
+* [技术小黑屋](http://droidyue.com/)
 
 团队博客
 ------
 * [Android官方技术博客](http://android-developers.blogspot.com/)
 * [美团点评技术团队](http://tech.meituan.com/)
 * [腾讯全端 AlloyTeam 团队](http://www.alloyteam.com/)
+* [腾讯大讲堂](http://djt.qq.com/)
 
 技术社区
 ------
