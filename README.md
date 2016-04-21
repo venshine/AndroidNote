@@ -21,48 +21,48 @@ Android 笔记
 
 第一部分&nbsp;&nbsp;&nbsp;&nbsp;技术框架
 --
-### 图片加载
+### 一、图片加载
 * [Glide](https://github.com/bumptech/glide)
 * [Fresco](http://fresco-cn.org/)
 * [Volley](http://developer.android.com/intl/zh-cn/training/volley/request.html#request-image)
 * [Picasso](http://square.github.io/picasso/)
 * [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 
-### 网络请求
+### 二、网络请求
 * [okhttp](http://square.github.io/okhttp/)
 * [retrofit](http://square.github.io/retrofit/)
 * [Volley](http://developer.android.com/intl/zh-cn/training/volley/index.html)
 * [android-async-http](http://loopj.com/android-async-http/)
 
-### 数据库ORM
+### 三、数据库ORM
 * [OrmLite](http://ormlite.com/)
 * [greenDAO](http://greenrobot.org/greendao/)
 * [sugar](http://satyan.github.io/sugar/)
 * [realm](https://github.com/realm/realm-java)
 
-### Json解析
+### 四、Json解析
 * [gson](https://github.com/google/gson)
 * [fastjson](https://github.com/alibaba/fastjson)
 * [jackson](https://github.com/FasterXML/jackson)
 
-### 常用工具
+### 五、常用工具
 * [android-common](https://github.com/Trinea/android-common)
 * [android-common](https://github.com/litesuits/android-common)
 * [AndroidCommon](https://github.com/venshine/AndroidCommon)
 
-### 依赖注入
+### 六、依赖注入
 * [Dagger 2](http://google.github.io/dagger/)
 * [Butter Knife](http://jakewharton.github.io/butterknife/)
 * [RoboGuice](https://github.com/roboguice/roboguice)
 
-### 快速开发
+### 七、快速开发
 * [afinal](https://github.com/yangfuhai/afinal)
 * [xUtils3](https://github.com/wyouflf/xUtils3)
 * [ThinkAndroid](https://github.com/white-cat/ThinkAndroid)
 * [LoonAndroid3](https://github.com/gdpancheng/LoonAndroid3)
 * [KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)
 
-### 动态加载
+### 八、动态加载
 * [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
 * [DynamicAPK](https://github.com/CtripMobile/DynamicAPK)
 * [DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
@@ -71,7 +71,7 @@ Android 笔记
 * [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)
 * [ACDD](https://github.com/bunnyblue/ACDD)
 
-### 热修复
+### 九、热修复
 * [AndFix](https://github.com/alibaba/AndFix)
 * [Xposed](https://github.com/rovo89/Xposed)
 * [dexposed](https://github.com/alibaba/dexposed)
@@ -81,7 +81,7 @@ Android 笔记
 
 第二部分&nbsp;&nbsp;&nbsp;&nbsp;博客社区
 --
-### 个人博客
+### 一、个人博客
 * [老罗的Android之旅](http://blog.csdn.net/luoshengyang)
 * [泡在网上的日子](http://www.jcodecraeer.com/)
 * [Trinea](http://www.trinea.cn/)
@@ -102,7 +102,7 @@ Android 笔记
 * [技术小黑屋](http://droidyue.com/)
 * [Drakeet的个人博客](https://drakeet.me/)
 
-### 团队博客
+### 二、团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
 * [美团点评技术团队](http://tech.meituan.com/)
 * [腾讯全端 AlloyTeam 团队](http://www.alloyteam.com/)
@@ -111,7 +111,7 @@ Android 笔记
 * [Square](https://corner.squareup.com/)
 * [Facebook](https://code.facebook.com/)
 
-### 技术社区
+### 三、技术社区
 * [CSDN](http://www.csdn.net/)
 * [博客园](http://www.cnblogs.com/)
 * [ITEYE](http://www.iteye.com/)
