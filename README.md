@@ -78,7 +78,10 @@ Android 笔记
 * [江清清的技术专栏](http://www.lcode.org/)
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 * [张涛-开源实验室](http://blog.kymjs.com/)
+* [谢权SELF](https://xiequan.info/)
+* [Mr.Simple的专栏](http://blog.csdn.net/bboyfeiyu)
 * [技术小黑屋](http://droidyue.com/)
+* [Drakeet的个人博客](https://drakeet.me/)
 
 团队博客
 ------
@@ -86,6 +89,9 @@ Android 笔记
 * [美团点评技术团队](http://tech.meituan.com/)
 * [腾讯全端 AlloyTeam 团队](http://www.alloyteam.com/)
 * [腾讯大讲堂](http://djt.qq.com/)
+* [奇迹空间技术学习小组](http://blog.qiji.tech/)
+* [Square](https://corner.squareup.com/)
+* [Facebook](https://code.facebook.com/)
 
 技术社区
 ------
