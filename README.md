@@ -101,6 +101,10 @@ Android 笔记
 * [Mr.Simple的专栏](http://blog.csdn.net/bboyfeiyu)
 * [技术小黑屋](http://droidyue.com/)
 * [Drakeet的个人博客](https://drakeet.me/)
+* [eclipse_xu](http://blog.csdn.net/eclipsexys)
+* [子墨博客](http://blog.csdn.net/ElinaVampire)
+* [巫山老妖](http://blog.csdn.net/wwj_748)
+* [AigeStudio](http://blog.csdn.net/aigestudio)
 
 ### 二、团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
