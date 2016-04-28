@@ -13,6 +13,7 @@ Android 笔记
 >   * [快速开发](https://github.com/venshine/AndroidNote#%e4%b8%83%e5%bf%ab%e9%80%9f%e5%bc%80%e5%8f%91)
 >   * [动态加载](https://github.com/venshine/AndroidNote#%e5%85%ab%e5%8a%a8%e6%80%81%e5%8a%a0%e8%bd%bd)
 >   * [热修复](https://github.com/venshine/AndroidNote#%e4%b9%9d%e7%83%ad%e4%bf%ae%e5%a4%8d)
+>   * [事件总线](https://github.com/venshine/AndroidNote#%e5%8d%81%e4%ba%8b%e4%bb%b6%e6%80%bb%e7%ba%bf)
 > * [博客社区](https://github.com/venshine/AndroidNote#%e7%ac%ac%e4%ba%8c%e9%83%a8%e5%88%86%e5%8d%9a%e5%ae%a2%e7%a4%be%e5%8c%ba)
 >   * [个人博客](https://github.com/venshine/AndroidNote#%e4%b8%80%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2)
 >   * [团队博客](https://github.com/venshine/AndroidNote#%e4%ba%8c%e5%9b%a2%e9%98%9f%e5%8d%9a%e5%ae%a2)
@@ -78,6 +79,10 @@ Android 笔记
 * [HotFix](https://github.com/dodola/HotFix)
 * [Nuwa](https://github.com/jasonross/Nuwa)
 * [DroidFix](https://github.com/bunnyblue/DroidFix)
+
+### 十、事件总线
+* [EventBus](http://greenrobot.org/eventbus/)
+* [Otto](http://square.github.io/otto/)
 
 第二部分&nbsp;&nbsp;&nbsp;&nbsp;博客社区
 --
