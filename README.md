@@ -3,22 +3,34 @@ Android 笔记
 
 大纲
 --
-> * [技术框架](https://github.com/venshine/AndroidNote#%e7%ac%ac%e4%b8%80%e9%83%a8%e5%88%86%e6%8a%80%e6%9c%af%e6%a1%86%e6%9e%b6)
->   * [图片加载](https://github.com/venshine/AndroidNote#%e5%9b%be%e7%89%87%e5%8a%a0%e8%bd%bd)
->   * [网络请求](https://github.com/venshine/AndroidNote#%e7%bd%91%e7%bb%9c%e8%af%b7%e6%b1%82)
->   * [数据库ORM](https://github.com/venshine/AndroidNote#%e6%95%b0%e6%8d%ae%e5%ba%93orm)
->   * [Json解析](https://github.com/venshine/AndroidNote#json%e8%a7%a3%e6%9e%90)
->   * [常用工具](https://github.com/venshine/AndroidNote#%e5%b8%b8%e7%94%a8%e5%b7%a5%e5%85%b7)
->   * [依赖注入](https://github.com/venshine/AndroidNote#%e4%be%9d%e8%b5%96%e6%b3%a8%e5%85%a5)
->   * [快速开发](https://github.com/venshine/AndroidNote#%e5%bf%ab%e9%80%9f%e5%bc%80%e5%8f%91)
->   * [动态加载](https://github.com/venshine/AndroidNote#%e5%8a%a8%e6%80%81%e5%8a%a0%e8%bd%bd)
->   * [热修复](https://github.com/venshine/AndroidNote#%e7%83%ad%e4%bf%ae%e5%a4%8d)
->   * [事件总线](https://github.com/venshine/AndroidNote#%e4%ba%8b%e4%bb%b6%e6%80%bb%e7%ba%bf)
-> * [博客社区](https://github.com/venshine/AndroidNote#%e7%ac%ac%e4%ba%8c%e9%83%a8%e5%88%86%e5%8d%9a%e5%ae%a2%e7%a4%be%e5%8c%ba)
->   * [个人博客](https://github.com/venshine/AndroidNote#%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2)
->   * [团队博客](https://github.com/venshine/AndroidNote#%e5%9b%a2%e9%98%9f%e5%8d%9a%e5%ae%a2)
->   * [技术社区](https://github.com/venshine/AndroidNote#%e6%8a%80%e6%9c%af%e7%a4%be%e5%8c%ba)
-> * [技术书籍](https://github.com/venshine/AndroidNote#%e7%ac%ac%e4%b8%89%e9%83%a8%e5%88%86%e6%8a%80%e6%9c%af%e4%b9%a6%e7%b1%8d)
+> * [技术框架](https://github.com/venshine/AndroidNote#第一部分技术框架)
+>   * [图片加载](https://github.com/venshine/AndroidNote#图片加载)
+>   * [网络请求](https://github.com/venshine/AndroidNote#网络请求)
+>   * [数据库ORM](https://github.com/venshine/AndroidNote#数据库orm)
+>   * [Json解析](https://github.com/venshine/AndroidNote#json解析)
+>   * [常用工具](https://github.com/venshine/AndroidNote#常用工具)
+>   * [依赖注入](https://github.com/venshine/AndroidNote#依赖注入)
+>   * [快速开发](https://github.com/venshine/AndroidNote#快速开发)
+>   * [动态加载](https://github.com/venshine/AndroidNote#动态加载)
+>   * [热修复](https://github.com/venshine/AndroidNote#热修复)
+>   * [事件总线](https://github.com/venshine/AndroidNote#事件总线)
+> * [博客社区](https://github.com/venshine/AndroidNote#第二部份博客社区)
+>   * [个人博客](https://github.com/venshine/AndroidNote#个人博客)
+>   * [团队博客](https://github.com/venshine/AndroidNote#团队博客)
+>   * [技术社区](https://github.com/venshine/AndroidNote#技术社区)
+> * [技术书籍](https://github.com/venshine/AndroidNote#第三部份技术书籍)
+>   * [计算机基础](https://github.com/venshine/AndroidNote#计算机基础)
+>   * [操作系统](https://github.com/venshine/AndroidNote#操作系统)
+>   * [体系结构](https://github.com/venshine/AndroidNote#体系结构)
+>   * [计算机网络](https://github.com/venshine/AndroidNote#计算机网络)
+>   * [数据库](https://github.com/venshine/AndroidNote#数据库)
+>   * [编译原理](https://github.com/venshine/AndroidNote#编译原理)
+>   * [数据结构&算法](https://github.com/venshine/AndroidNote#数据结构算法)
+>   * [设计模式](https://github.com/venshine/AndroidNote#设计模式)
+>   * [软件工程](https://github.com/venshine/AndroidNote#软件工程)
+>   * [数字图像处理](https://github.com/venshine/AndroidNote#数字图像处理)
+>   * [计算机图形学](https://github.com/venshine/AndroidNote#计算机图形学)
+>   * [Linux](https://github.com/venshine/AndroidNote#linux)
 
 
 第一部分&nbsp;&nbsp;&nbsp;&nbsp;技术框架
@@ -314,7 +326,6 @@ Android 笔记
 
 * [《鸟哥的Linux私房菜：服务器架设篇(第3版)》](https://book.douban.com/subject/10794788/)     
 您已有Linux基础，想要进一步学习服务器架设？还想了解如何维护与管理您的服务器？本书是您绝佳的选择。
-
 
 
 
