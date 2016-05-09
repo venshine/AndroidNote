@@ -31,6 +31,7 @@ Android 进阶笔记
 >   * [数字图像处理](https://github.com/venshine/AndroidNote#数字图像处理)
 >   * [计算机图形学](https://github.com/venshine/AndroidNote#计算机图形学)
 >   * [Linux](https://github.com/venshine/AndroidNote#linux)
+>   * [Android](https://github.com/venshine/AndroidNote#android)
 
 
 第一部分&nbsp;&nbsp;&nbsp;&nbsp;技术框架
@@ -327,12 +328,25 @@ Android 进阶笔记
 * [《鸟哥的Linux私房菜：服务器架设篇(第3版)》](https://book.douban.com/subject/10794788/)     
 您已有Linux基础，想要进一步学习服务器架设？还想了解如何维护与管理您的服务器？本书是您绝佳的选择。
 
+### Android
+* [Android开发权威指南](https://book.douban.com/subject/25741542/)  
+本书是一本全面介绍Android应用开发的专著。
 
+* [Android内核剖析](https://book.douban.com/subject/6811238/)  
+本书详细分析了Android内核的内部机制，包括窗口管理系统、Activity管理系统、输入法框架、编译系统等，为Android内核定制及高级应用程序开发提供技术参考。  
 
+* [Android开发艺术探索](https://book.douban.com/subject/26599538/)  
+本书是一本Android进阶类书籍，采用理论、源码和实践相结合的方式来阐述高水准的Android应用开发要点。
 
+* [Android源码设计模式解析与实战](https://book.douban.com/subject/26644935/)    
+本书从Android源码的角度由浅入深地剖析设计模式的运用，让工程师们把设计与模式重视起来，提升自己的设计能力与代码质量。
 
+* [深入解析Android 5.0系统](https://book.douban.com/subject/26377840/)    
+本书详细剖析了最新Android 5.0 系统主要框架的原理和具体实现。
 
+* [深入理解Android内核设计思想](https://book.douban.com/subject/25921329/)   
+本书从操作系统的基础知识入手，全面剖析进程/线程、内存管理、Binder机制、GUI显示系统、多媒体管理、输入系统等核心技术在Android中的实现原理。
 
-
-
+* [Android软件安全与逆向分析](https://book.douban.com/subject/20556210/)    
+本书由浅入深、循序渐进地讲解了Android 系统的软件安全、逆向分析与加密解密技术。包括Android软件逆向分析和系统安全方面的必备知识及概念、如何静态分析Android 软件、如何动态调试Android 软件、Android 软件的破解与反破解技术的探讨，以及对典型Android 病毒的全面剖析。
 
