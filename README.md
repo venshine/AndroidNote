@@ -133,6 +133,7 @@ Android 进阶笔记
 * [奇迹空间技术学习小组](http://blog.qiji.tech/)
 * [Square](https://corner.squareup.com/)
 * [Facebook](https://code.facebook.com/)
+* [腾讯游戏安全实验室](http://gslab.qq.com/)
 
 ### 技术社区
 * [CSDN](http://www.csdn.net/)
