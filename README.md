@@ -18,6 +18,7 @@ Android 进阶笔记
 >   * [个人博客](https://github.com/venshine/AndroidNote#个人博客)
 >   * [团队博客](https://github.com/venshine/AndroidNote#团队博客)
 >   * [技术社区](https://github.com/venshine/AndroidNote#技术社区)
+>   * [技术周报](https://github.com/venshine/AndroidNote#技术周报)
 > * [技术书籍](https://github.com/venshine/AndroidNote#第三部份技术书籍)
 >   * [计算机基础](https://github.com/venshine/AndroidNote#计算机基础)
 >   * [操作系统](https://github.com/venshine/AndroidNote#操作系统)
