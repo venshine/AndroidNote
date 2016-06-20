@@ -61,9 +61,9 @@ Android 进阶笔记
 * [jackson](https://github.com/FasterXML/jackson)
 
 ### 常用工具
+* [AndroidCommon](https://github.com/venshine/AndroidCommon)
 * [android-common](https://github.com/Trinea/android-common)
 * [android-common](https://github.com/litesuits/android-common)
-* [AndroidCommon](https://github.com/venshine/AndroidCommon)
 
 ### 依赖注入
 * [Dagger 2](http://google.github.io/dagger/)
@@ -107,7 +107,6 @@ Android 进阶笔记
 * [郭霖](http://blog.csdn.net/guolin_blog)
 * [夏安明](http://blog.csdn.net/xiaanming)
 * [鸿阳](http://blog.csdn.net/lmj623565791)
-* [Android开发技术周报](http://androidweekly.cn/)
 * [任玉刚](http://blog.csdn.net/singwhatiwanna)
 * [云在千峰](http://blog.chengyunfeng.com/)
 * [胡凯](http://hukai.me/)
@@ -125,6 +124,7 @@ Android 进阶笔记
 * [巫山老妖](http://blog.csdn.net/wwj_748)
 * [AigeStudio](http://blog.csdn.net/aigestudio)
 * [雨松MOMO程序研究院](http://www.xuanyusong.com/)
+* [包建强](http://blog.csdn.net/jspandasp)
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
@@ -135,6 +135,7 @@ Android 进阶笔记
 * [Square](https://corner.squareup.com/)
 * [Facebook](https://code.facebook.com/)
 * [腾讯游戏安全实验室](http://gslab.qq.com/)
+* [腾讯Bugly社区](http://bugly.qq.com/bbs/portal.php)
 
 ### 技术社区
 * [CSDN](http://www.csdn.net/)
@@ -154,6 +155,16 @@ Android 进阶笔记
 * [InfoQ](http://www.infoq.com/cn/)
 * [ChinaUnix](http://blog.chinaunix.net/)
 * [ITPUB](http://blog.itpub.net/)
+* [开发者头条](http://toutiao.io/)
+ 
+### 技术周报
+* [编程狂人](http://www.tuicool.com/mags/)
+* [Android开发技术周报](http://androidweekly.cn/)
+* [APP开发日报](http://app.memect.com/)
+* [码农周刊](http://weekly.manong.io/issues/)
+* [干货集中营](http://gank.io/history)
+* [平安金融科技移动技术周报](http://www.jianshu.com/notebooks/2983917/latest)
+
 
 第三部分&nbsp;&nbsp;&nbsp;&nbsp;技术书籍
 --
