@@ -107,6 +107,16 @@ Android 进阶笔记
 * [WilliamChart](https://github.com/diogobernardino/WilliamChart)
 * [HelloCharts](https://github.com/lecho/hellocharts-android)
 
+### 响应式编程
+* [RxJava](https://github.com/ReactiveX/RxJava)
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid)
+* [Agera](https://github.com/google/agera)
+* [RxBinding](https://github.com/JakeWharton/RxBinding)
+
+### 日志框架
+* [Logger](https://github.com/orhanobut/logger)
+* [Timber](https://github.com/JakeWharton/timber)
+
 第二部分&nbsp;&nbsp;&nbsp;&nbsp;博客社区
 --
 ### 个人博客
