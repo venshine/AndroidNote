@@ -15,6 +15,8 @@ Android 进阶笔记
 >   * [热修复](https://github.com/venshine/AndroidNote#热修复)
 >   * [事件总线](https://github.com/venshine/AndroidNote#事件总线)
 >   * [图表](https://github.com/venshine/AndroidNote#图表)
+>   * [响应式编程](https://github.com/venshine/AndroidNote#响应式编程)
+>   * [日志框架](https://github.com/venshine/AndroidNote#日志框架)
 > * [博客社区](https://github.com/venshine/AndroidNote#第二部份博客社区)
 >   * [个人博客](https://github.com/venshine/AndroidNote#个人博客)
 >   * [团队博客](https://github.com/venshine/AndroidNote#团队博客)
