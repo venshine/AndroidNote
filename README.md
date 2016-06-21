@@ -14,6 +14,7 @@ Android 进阶笔记
 >   * [动态加载](https://github.com/venshine/AndroidNote#动态加载)
 >   * [热修复](https://github.com/venshine/AndroidNote#热修复)
 >   * [事件总线](https://github.com/venshine/AndroidNote#事件总线)
+>   * [图表](https://github.com/venshine/AndroidNote#图表)
 > * [博客社区](https://github.com/venshine/AndroidNote#第二部份博客社区)
 >   * [个人博客](https://github.com/venshine/AndroidNote#个人博客)
 >   * [团队博客](https://github.com/venshine/AndroidNote#团队博客)
@@ -40,7 +41,7 @@ Android 进阶笔记
 ### 图片加载
 * [Glide](https://github.com/bumptech/glide)
 * [Fresco](http://fresco-cn.org/)
-* [Volley](http://developer.android.com/intl/zh-cn/training/volley/request.html#request-image)
+* [Volley](https://android.googlesource.com/platform/frameworks/volley)
 * [Picasso](http://square.github.io/picasso/)
 * [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 
@@ -55,6 +56,7 @@ Android 进阶笔记
 * [greenDAO](http://greenrobot.org/greendao/)
 * [sugar](http://satyan.github.io/sugar/)
 * [realm](https://github.com/realm/realm-java)
+* [sqlbrite](https://github.com/square/sqlbrite)
 
 ### Json解析
 * [gson](https://github.com/google/gson)
@@ -70,6 +72,7 @@ Android 进阶笔记
 * [Dagger 2](http://google.github.io/dagger/)
 * [Butter Knife](http://jakewharton.github.io/butterknife/)
 * [RoboGuice](https://github.com/roboguice/roboguice)
+* [AndroidAnnotations](http://androidannotations.org/)
 
 ### 快速开发
 * [afinal](https://github.com/yangfuhai/afinal)
@@ -98,6 +101,11 @@ Android 进阶笔记
 ### 事件总线
 * [EventBus](http://greenrobot.org/eventbus/)
 * [Otto](http://square.github.io/otto/)
+ 
+### 图表
+* [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+* [WilliamChart](https://github.com/diogobernardino/WilliamChart)
+* [HelloCharts](https://github.com/lecho/hellocharts-android)
 
 第二部分&nbsp;&nbsp;&nbsp;&nbsp;博客社区
 --
