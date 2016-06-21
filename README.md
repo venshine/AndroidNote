@@ -14,6 +14,7 @@ Android 进阶笔记
 >   * [动态加载](https://github.com/venshine/AndroidNote#动态加载)
 >   * [热修复](https://github.com/venshine/AndroidNote#热修复)
 >   * [事件总线](https://github.com/venshine/AndroidNote#事件总线)
+>   * [性能工具](https://github.com/venshine/AndroidNote#性能工具)
 >   * [图表](https://github.com/venshine/AndroidNote#图表)
 >   * [响应式编程](https://github.com/venshine/AndroidNote#响应式编程)
 >   * [日志框架](https://github.com/venshine/AndroidNote#日志框架)
@@ -103,6 +104,10 @@ Android 进阶笔记
 ### 事件总线
 * [EventBus](http://greenrobot.org/eventbus/)
 * [Otto](http://square.github.io/otto/)
+ 
+### 性能工具
+* [LeakCanary](https://github.com/square/leakcanary)
+* [ACRA](https://github.com/ACRA/acra)
  
 ### 图表
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
