@@ -152,6 +152,7 @@ Android 进阶笔记
 * [雨松MOMO程序研究院](http://www.xuanyusong.com/)
 * [包建强](http://blog.csdn.net/jspandasp)
 * [AndroidXRef](http://androidxref.com/)
+* [hujiaweibujidao](http://hujiaweibujidao.github.io/)
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
