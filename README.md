@@ -100,6 +100,8 @@ Android 进阶笔记
 * [HotFix](https://github.com/dodola/HotFix)
 * [Nuwa](https://github.com/jasonross/Nuwa)
 * [DroidFix](https://github.com/bunnyblue/DroidFix)
+* [RocooFix](https://github.com/dodola/RocooFix)
+* [Legend](https://github.com/asLody/legend)
 
 ### 事件总线
 * [EventBus](http://greenrobot.org/eventbus/)
