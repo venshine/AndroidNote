@@ -153,7 +153,7 @@ Android 进阶笔记
 * [AigeStudio](http://blog.csdn.net/aigestudio)
 * [雨松MOMO程序研究院](http://www.xuanyusong.com/)
 * [包建强](http://blog.csdn.net/jspandasp)
-* [AndroidXRef](http://androidxref.com/)
+* [邓凡平](http://blog.csdn.net/innost)
 * [hujiaweibujidao](http://hujiaweibujidao.github.io/)
 
 ### 团队博客
