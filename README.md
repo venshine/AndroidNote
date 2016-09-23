@@ -189,6 +189,7 @@ Android 进阶笔记
 * [开发者头条](http://toutiao.io/)
 * [Android安全中文站](http://www.droidsec.cn/)
 * [菜鸟教程](http://www.runoob.com/)
+* [V2EX](https://www.v2ex.com/)
  
 ### 技术周报
 * [编程狂人](http://www.tuicool.com/mags/)
