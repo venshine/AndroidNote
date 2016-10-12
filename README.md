@@ -156,6 +156,7 @@ Android 进阶笔记
 * [邓凡平](http://blog.csdn.net/innost)
 * [hujiaweibujidao](http://hujiaweibujidao.github.io/)
 * [何红辉](http://blog.csdn.net/bboyfeiyu)
+* [Piasy](http://blog.piasy.com/)
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
