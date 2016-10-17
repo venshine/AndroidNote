@@ -102,6 +102,7 @@ Android 进阶笔记
 * [DroidFix](https://github.com/bunnyblue/DroidFix)
 * [RocooFix](https://github.com/dodola/RocooFix)
 * [Legend](https://github.com/asLody/legend)
+* [Tinker](https://github.com/Tencent/tinker)
 
 ### 事件总线
 * [EventBus](http://greenrobot.org/eventbus/)
