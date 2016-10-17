@@ -169,6 +169,7 @@ Android 进阶笔记
 * [Facebook](https://code.facebook.com/)
 * [腾讯游戏安全实验室](http://gslab.qq.com/)
 * [腾讯Bugly社区](http://bugly.qq.com/bbs/portal.php)
+* [DEV CLUB](http://dev.qq.com/)
 
 ### 技术社区
 * [CSDN](http://www.csdn.net/)
