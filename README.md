@@ -192,6 +192,7 @@ Android 进阶笔记
 * [菜鸟教程](http://www.runoob.com/)
 * [V2EX](https://www.v2ex.com/)
 * [FreeBuf](http://www.freebuf.com/)
+* [Google开发者官方频道](http://i.youku.com/i/UMjczOTc0NDkzNg==)
  
 ### 技术周报
 * [编程狂人](http://www.tuicool.com/mags/)
