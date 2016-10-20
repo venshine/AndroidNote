@@ -145,7 +145,7 @@ Android 进阶笔记
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 * [张涛-开源实验室](http://blog.kymjs.com/)
 * [谢权SELF](https://xiequan.info/)
-* [Mr.Simple的专栏](http://blog.csdn.net/bboyfeiyu)
+* [Mr.Simple](http://blog.csdn.net/bboyfeiyu)
 * [技术小黑屋](http://droidyue.com/)
 * [Drakeet的个人博客](https://drakeet.me/)
 * [eclipse_xu](http://blog.csdn.net/eclipsexys)
@@ -158,6 +158,9 @@ Android 进阶笔记
 * [hujiaweibujidao](http://hujiaweibujidao.github.io/)
 * [何红辉](http://blog.csdn.net/bboyfeiyu)
 * [Piasy](http://blog.piasy.com/)
+* [元斌](http://blog.csdn.net/qibin0506)
+* [赵四](http://blog.csdn.net/jiangwei0910410003)
+* [foruok](http://blog.csdn.net/foruok)
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
