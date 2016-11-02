@@ -161,6 +161,7 @@ Android 进阶笔记
 * [元斌](http://blog.csdn.net/qibin0506)
 * [赵四](http://blog.csdn.net/jiangwei0910410003)
 * [foruok](http://blog.csdn.net/foruok)
+* [weishu](http://weishu.me/)
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
