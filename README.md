@@ -385,6 +385,9 @@ Android 进阶笔记
 * [《鸟哥的Linux私房菜：服务器架设篇(第3版)》](https://book.douban.com/subject/10794788/)     
 您已有Linux基础，想要进一步学习服务器架设？还想了解如何维护与管理您的服务器？本书是您绝佳的选择。
 
+* [《UNIX环境高级编程》](https://book.douban.com/subject/1788421/)  
+本书是被誉为UNIX编程“圣经”的Advanced Programming in the UNIX Environment一书的更新版。本书内容权威，概念清晰，阐述精辟，对于所有层次UNIX程序员都是一本不可或缺的参考书。
+
 ### Android
 * [《Android开发权威指南》](https://book.douban.com/subject/25741542/)  
 本书是一本全面介绍Android应用开发的专著。
