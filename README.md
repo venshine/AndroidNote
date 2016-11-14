@@ -164,6 +164,7 @@ Android 进阶笔记
 * [weishu](http://weishu.me/)
 * [严振杰](http://blog.csdn.net/yanzhenjie1003)
 * [切问录](http://www.fuzihao.org/blog/)
+* [猴子搬来的救兵](http://blog.csdn.net/mynameishuangshuai)
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
