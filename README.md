@@ -160,7 +160,6 @@ Android 进阶笔记
 * [Piasy](http://blog.piasy.com/)
 * [元斌](http://blog.csdn.net/qibin0506)
 * [赵四](http://blog.csdn.net/jiangwei0910410003)
-* [foruok](http://blog.csdn.net/foruok)
 * [weishu](http://weishu.me/)
 * [严振杰](http://blog.csdn.net/yanzhenjie1003)
 * [切问录](http://www.fuzihao.org/blog/)
