@@ -215,7 +215,7 @@ Android 进阶笔记
 * [干货集中营](http://gank.io/history)
 * [平安金融科技移动技术周报](http://www.jianshu.com/notebooks/2983917/latest)
 * [Android博客周刊](http://androidblog.cn/)
-
+* [Android Weekly](http://androidweekly.net/)
 
 第三部分&nbsp;&nbsp;&nbsp;&nbsp;技术书籍
 --
