@@ -165,6 +165,7 @@ Android 进阶笔记
 * [切问录](http://www.fuzihao.org/blog/)
 * [猴子搬来的救兵](http://blog.csdn.net/mynameishuangshuai)
 * [markzhai](http://blog.zhaiyifan.cn/)
+* [兰亭风雨](http://blog.csdn.net/ns_code)
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
