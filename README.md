@@ -400,9 +400,11 @@ Android 进阶笔记
 * [《Android开发权威指南》](https://book.douban.com/subject/25741542/)  
 本书是一本全面介绍Android应用开发的专著。
 
+* [《第一行代码》](https://book.douban.com/subject/26915433/)
+本书被广大Android 开发者誉为“Android 学习第一书”。全书系统全面、循序渐进地介绍了Android软件开发的必备知识、经验和技巧。
+
 * [《Android内核剖析》](https://book.douban.com/subject/6811238/)  
 本书详细分析了Android内核的内部机制，包括窗口管理系统、Activity管理系统、输入法框架、编译系统等，为Android内核定制及高级应用程序开发提供技术参考。  
-
 * [《Android开发艺术探索》](https://book.douban.com/subject/26599538/)  
 本书是一本Android进阶类书籍，采用理论、源码和实践相结合的方式来阐述高水准的Android应用开发要点。
 
