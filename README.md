@@ -168,6 +168,7 @@ Android 进阶笔记
 * [兰亭风雨](http://blog.csdn.net/ns_code)
 * [谦虚的天下](http://www.cnblogs.com/qianxudetianxia/)
 * [工匠若水](http://blog.csdn.net/yanbober)
+* [diygreen](http://www.jianshu.com/u/0ad0a0afc409)
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
