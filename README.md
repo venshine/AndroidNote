@@ -171,6 +171,7 @@ Android 进阶笔记
 * [工匠若水](http://blog.csdn.net/yanbober)
 * [diygreen](http://www.jianshu.com/u/0ad0a0afc409)
 * [VERYYOUNG](http://veryyoung.me/)
+* [左飞](http://blog.csdn.net/baimafujinji)
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
