@@ -173,6 +173,7 @@ Android 进阶笔记
 * [VERYYOUNG](http://veryyoung.me/)
 * [左飞](http://blog.csdn.net/baimafujinji)
 * [Frodo](http://frodoking.github.io/)
+* [青峰](http://www.fqxyi.com/)
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
