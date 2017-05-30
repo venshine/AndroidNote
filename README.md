@@ -178,6 +178,7 @@ Android 进阶笔记
 * [Carson_Ho](http://blog.csdn.net/carson_ho)
 * [Gityuan](http://gityuan.com/)
 * [GcsSloop](http://www.gcssloop.com/)
+* [吴小龙同学](http://wuxiaolong.me/)
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
