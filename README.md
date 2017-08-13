@@ -179,6 +179,7 @@ Android 进阶笔记
 * [Gityuan](http://gityuan.com/)
 * [GcsSloop](http://www.gcssloop.com/)
 * [吴小龙同学](http://wuxiaolong.me/)
+* [设计师吴彦祖](http://liangjingkanji.coding.me/) 
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
