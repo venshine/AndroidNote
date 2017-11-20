@@ -181,6 +181,7 @@ Android 进阶笔记
 * [吴小龙同学](http://wuxiaolong.me/)
 * [设计师吴彦祖](http://liangjingkanji.coding.me/) 
 * [frank的专栏](http://blog.csdn.net/briblue)
+* [zjutkz's blog](http://zjutkz.net/)
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
