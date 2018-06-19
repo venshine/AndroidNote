@@ -182,7 +182,6 @@ Android 进阶笔记
 * [设计师吴彦祖](http://liangjingkanji.coding.me/) 
 * [frank的专栏](http://blog.csdn.net/briblue)
 * [zjutkz's blog](http://zjutkz.net/)
-* [Carson_Ho](https://www.jianshu.com/u/383970bef0a0)
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
