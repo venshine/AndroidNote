@@ -183,6 +183,7 @@ Android 进阶笔记
 * [frank的专栏](http://blog.csdn.net/briblue)
 * [zjutkz's blog](http://zjutkz.net/)
 * [Gavin Liu](http://gavinliu.cn/)
+* [SpikeKing](https://www.jianshu.com/u/e2b4dd6d3eb4)
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
