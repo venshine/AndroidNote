@@ -225,7 +225,7 @@ Android 进阶笔记
 * [Google开发者官方频道](http://i.youku.com/i/UMjczOTc0NDkzNg==)
 * [GDG中国社区论坛](http://www.chinagdg.com/)
 * [谷歌中国博客](http://developers.googleblog.cn)
-* [小专栏](https://xiaozhuanlan.com/
+* [小专栏](https://xiaozhuanlan.com/)
  
 ### 技术周报
 * [编程狂人](http://www.tuicool.com/mags/)
