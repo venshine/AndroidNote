@@ -187,6 +187,7 @@ Android 进阶笔记
 * [田野光的技术小站](https://wangyeming.github.io/)
 * [Coder-Pig](https://blog.csdn.net/coder_pig)
 * [Android Performance](https://www.androidperformance.com)
+* [Gityuan博客](http://gityuan.com/)
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
