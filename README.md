@@ -189,6 +189,7 @@ Android 进阶笔记
 * [Android Performance](https://www.androidperformance.com)
 * [Gityuan博客](http://gityuan.com/)
 * [欧阳鹏](https://blog.csdn.net/ouyang_peng)
+* [寒江蓑笠](https://www.heqiangfly.com/)
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
