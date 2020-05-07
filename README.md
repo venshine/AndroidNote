@@ -190,6 +190,7 @@ Android 进阶笔记
 * [Gityuan博客](http://gityuan.com/)
 * [欧阳鹏](https://blog.csdn.net/ouyang_peng)
 * [寒江蓑笠](https://www.heqiangfly.com/)
+* [却把清梅嗅](https://juejin.im/user/588555ff1b69e600591e8462)
 
 ### 团队博客
 * [Android官方技术博客](http://android-developers.blogspot.com/)
