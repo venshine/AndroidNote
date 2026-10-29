@@ -1,250 +1,266 @@
 Android 进阶笔记
 ==
 
+精选 Android 开发相关的官方文档、开源框架、博客社区与经典书籍。
+
+> 最后更新：2026-10-29。收录的链接均在更新时验证可访问；已停止维护、已归档或无法访问的内容已移除。
+
 大纲
 --
-> * [技术框架](https://github.com/venshine/AndroidNote#第一部分技术框架)
->   * [图片加载](https://github.com/venshine/AndroidNote#图片加载)
->   * [网络请求](https://github.com/venshine/AndroidNote#网络请求)
->   * [数据库ORM](https://github.com/venshine/AndroidNote#数据库orm)
->   * [Json解析](https://github.com/venshine/AndroidNote#json解析)
->   * [常用工具](https://github.com/venshine/AndroidNote#常用工具)
->   * [依赖注入](https://github.com/venshine/AndroidNote#依赖注入)
->   * [快速开发](https://github.com/venshine/AndroidNote#快速开发)
->   * [动态加载](https://github.com/venshine/AndroidNote#动态加载)
->   * [热修复](https://github.com/venshine/AndroidNote#热修复)
->   * [事件总线](https://github.com/venshine/AndroidNote#事件总线)
->   * [性能工具](https://github.com/venshine/AndroidNote#性能工具)
->   * [图表](https://github.com/venshine/AndroidNote#图表)
->   * [响应式编程](https://github.com/venshine/AndroidNote#响应式编程)
->   * [日志框架](https://github.com/venshine/AndroidNote#日志框架)
-> * [博客社区](https://github.com/venshine/AndroidNote#第二部分博客社区)
->   * [个人博客](https://github.com/venshine/AndroidNote#个人博客)
->   * [团队博客](https://github.com/venshine/AndroidNote#团队博客)
->   * [技术社区](https://github.com/venshine/AndroidNote#技术社区)
->   * [技术周报](https://github.com/venshine/AndroidNote#技术周报)
-> * [技术书籍](https://github.com/venshine/AndroidNote#第三部分技术书籍)
->   * [计算机基础](https://github.com/venshine/AndroidNote#计算机基础)
->   * [操作系统](https://github.com/venshine/AndroidNote#操作系统)
->   * [体系结构](https://github.com/venshine/AndroidNote#体系结构)
->   * [计算机网络](https://github.com/venshine/AndroidNote#计算机网络)
->   * [数据库](https://github.com/venshine/AndroidNote#数据库)
->   * [编译原理](https://github.com/venshine/AndroidNote#编译原理)
->   * [数据结构&算法](https://github.com/venshine/AndroidNote#数据结构算法)
->   * [设计模式](https://github.com/venshine/AndroidNote#设计模式)
->   * [软件工程](https://github.com/venshine/AndroidNote#软件工程)
->   * [数字图像处理](https://github.com/venshine/AndroidNote#数字图像处理)
->   * [计算机图形学](https://github.com/venshine/AndroidNote#计算机图形学)
->   * [Linux](https://github.com/venshine/AndroidNote#linux)
->   * [Android](https://github.com/venshine/AndroidNote#android)
+> * [技术框架](#第一部分技术框架)
+>   * [官方指南与示例](#官方指南与示例)
+>   * [Kotlin 与协程](#kotlin-与协程)
+>   * [Jetpack Compose 与 UI](#jetpack-compose-与-ui)
+>   * [跨平台](#跨平台)
+>   * [Jetpack 架构组件](#jetpack-架构组件)
+>   * [图片加载](#图片加载)
+>   * [网络请求](#网络请求)
+>   * [数据库](#数据库)
+>   * [JSON 解析](#json-解析)
+>   * [依赖注入](#依赖注入)
+>   * [响应式编程](#响应式编程)
+>   * [端侧 AI 与大模型](#端侧-ai-与大模型)
+>   * [构建与性能](#构建与性能)
+>   * [稳定性监控](#稳定性监控)
+>   * [测试](#测试)
+>   * [图表](#图表)
+>   * [日志框架](#日志框架)
+>   * [动态化与热修复](#动态化与热修复)
+>   * [新平台与新能力](#新平台与新能力)
+> * [博客社区](#第二部分博客社区)
+>   * [个人博客](#个人博客)
+>   * [团队博客](#团队博客)
+>   * [技术社区](#技术社区)
+>   * [技术周报](#技术周报)
+> * [技术书籍](#第三部分技术书籍)
+>   * [计算机基础](#计算机基础)
+>   * [操作系统](#操作系统)
+>   * [体系结构](#体系结构)
+>   * [计算机网络](#计算机网络)
+>   * [数据库](#数据库-1)
+>   * [编译原理](#编译原理)
+>   * [数据结构&算法](#数据结构算法)
+>   * [设计模式](#设计模式)
+>   * [软件工程](#软件工程)
+>   * [数字图像处理](#数字图像处理)
+>   * [计算机图形学](#计算机图形学)
+>   * [Linux](#linux)
+>   * [Android](#android)
 
 
 第一部分&nbsp;&nbsp;&nbsp;&nbsp;技术框架
 --
+### 官方指南与示例
+* [Android 应用架构指南](https://developer.android.com/topic/architecture) -- 官方推荐的分层架构与最佳实践
+* [Now in Android](https://github.com/android/nowinandroid) -- 官方完整示例应用，全面采用 Kotlin、Compose 与现代架构
+* [architecture-samples](https://github.com/android/architecture-samples) -- 官方架构示例
+* [compose-samples](https://github.com/android/compose-samples) -- 官方 Compose 示例集
+* [Android 官方课程](https://developer.android.com/courses)
+* [Android 版本与行为变更](https://developer.android.com/about/versions) -- 各版本新特性与适配要求
+
+### Kotlin 与协程
+* [Kotlin 官方文档](https://kotlinlang.org/docs/home.html)
+* [Android 上的 Kotlin](https://developer.android.com/kotlin)
+* [Kotlin 协程](https://developer.android.com/kotlin/coroutines) -- 官方异步编程方案，源码见 [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
+* [Kotlin Flow](https://developer.android.com/kotlin/flow) -- 异步数据流，也可替代 EventBus 等事件总线
+* [kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime) -- 多平台日期时间库
+
+### Jetpack Compose 与 UI
+* [Jetpack Compose](https://developer.android.com/compose) -- 官方声明式 UI 框架
+* [Material Design 3](https://m3.material.io/) -- 设计规范，Compose 实现见 [Material 3 in Compose](https://developer.android.com/develop/ui/compose/designsystems/material3)
+* [Navigation 3](https://developer.android.com/guide/navigation/navigation-3) -- 面向 Compose 的新一代导航库
+* [Edge-to-edge 全面屏适配](https://developer.android.com/develop/ui/views/layout/edge-to-edge)
+* [View Binding](https://developer.android.com/topic/libraries/view-binding) -- 替代已停止维护的 Butter Knife
+* [Circuit](https://github.com/slackhq/circuit) -- Slack 开源的 Compose 驱动架构
+* [Lottie](https://lottie.airbnb.tech/) -- Airbnb 开源的动画库
+
+### 跨平台
+* [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) -- 在 Android、iOS、桌面与 Web 间共享 Kotlin 代码
+* [Android 官方 KMP 指南](https://developer.android.com/kotlin/multiplatform)
+* [Compose Multiplatform](https://kotlinlang.org/compose-multiplatform/) -- JetBrains 的跨平台 Compose UI，源码见 [compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
+
+### Jetpack 架构组件
+* [Room](https://developer.android.com/training/data-storage/room) -- 官方 SQLite ORM
+* [DataStore](https://developer.android.com/topic/libraries/architecture/datastore) -- 替代 SharedPreferences
+* [WorkManager](https://developer.android.com/develop/background-work/background-tasks/persistent) -- 可靠的后台任务调度
+* [Paging 3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview) -- 分页加载
+
 ### 图片加载
+* [Coil](https://coil-kt.github.io/coil/) -- Kotlin 优先，支持 Compose 与 Kotlin Multiplatform
 * [Glide](https://github.com/bumptech/glide)
-* [Fresco](http://fresco-cn.org/)
-* [Volley](https://android.googlesource.com/platform/frameworks/volley)
-* [Picasso](http://square.github.io/picasso/)
-* [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+* [Fresco](https://frescolib.org/) -- 仓库已迁移至 [meta/fresco](https://github.com/meta/fresco)
 
 ### 网络请求
-* [okhttp](http://square.github.io/okhttp/)
-* [retrofit](http://square.github.io/retrofit/)
-* [Volley](http://developer.android.com/intl/zh-cn/training/volley/index.html)
-* [android-async-http](http://loopj.com/android-async-http/)
+* [OkHttp](https://lysine.dev/okhttp/) -- 仓库已迁移至 [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp)
+* [Retrofit](https://lysine.dev/retrofit/) -- 仓库已迁移至 [lysine-dev/retrofit](https://github.com/lysine-dev/retrofit)
+* [Ktor](https://ktor.io/) -- JetBrains 的 Kotlin 多平台网络框架
+* [Wire](https://github.com/square/wire) -- gRPC 与 Protocol Buffers
 
-### 数据库ORM
-* [OrmLite](http://ormlite.com/)
-* [greenDAO](http://greenrobot.org/greendao/)
-* [sugar](http://satyan.github.io/sugar/)
-* [realm](https://github.com/realm/realm-java)
-* [sqlbrite](https://github.com/square/sqlbrite)
+### 数据库
+* [Room](https://developer.android.com/training/data-storage/room)
+* [SQLDelight](https://sqldelight.github.io/sqldelight/) -- 由 SQL 生成类型安全的 Kotlin API，支持多平台
+* [ObjectBox](https://github.com/objectbox/objectbox-java) -- 对象数据库，支持端侧向量检索
 
-### Json解析
-* [gson](https://github.com/google/gson)
-* [fastjson](https://github.com/alibaba/fastjson)
-* [jackson](https://github.com/FasterXML/jackson)
-
-### 常用工具
-* [AndroidCommon](https://github.com/venshine/AndroidCommon)
-* [android-common](https://github.com/Trinea/android-common)
-* [android-common](https://github.com/litesuits/android-common)
+### JSON 解析
+* [kotlinx.serialization](https://kotlinlang.org/docs/serialization.html) -- Kotlin 官方序列化库
+* [Moshi](https://github.com/square/moshi)
+* [Gson](https://github.com/google/gson)
+* [Jackson](https://github.com/FasterXML/jackson)
+* [fastjson2](https://github.com/alibaba/fastjson2) -- 替代已归档的 fastjson
 
 ### 依赖注入
-* [Dagger 2](http://google.github.io/dagger/)
-* [Butter Knife](http://jakewharton.github.io/butterknife/)
-* [RoboGuice](https://github.com/roboguice/roboguice)
-* [AndroidAnnotations](http://androidannotations.org/)
-
-### 快速开发
-* [afinal](https://github.com/yangfuhai/afinal)
-* [xUtils3](https://github.com/wyouflf/xUtils3)
-* [ThinkAndroid](https://github.com/white-cat/ThinkAndroid)
-* [LoonAndroid3](https://github.com/gdpancheng/LoonAndroid3)
-* [KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)
-
-### 动态加载
-* [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
-* [DynamicAPK](https://github.com/CtripMobile/DynamicAPK)
-* [DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
-* [AndroidDynamicLoader](https://github.com/mmin18/AndroidDynamicLoader)
-* [android-pluginmgr](https://github.com/houkx/android-pluginmgr)
-* [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)
-* [ACDD](https://github.com/bunnyblue/ACDD)
-
-### 热修复
-* [AndFix](https://github.com/alibaba/AndFix)
-* [Xposed](https://github.com/rovo89/Xposed)
-* [dexposed](https://github.com/alibaba/dexposed)
-* [HotFix](https://github.com/dodola/HotFix)
-* [Nuwa](https://github.com/jasonross/Nuwa)
-* [DroidFix](https://github.com/bunnyblue/DroidFix)
-* [RocooFix](https://github.com/dodola/RocooFix)
-* [Legend](https://github.com/asLody/legend)
-* [Tinker](https://github.com/Tencent/tinker)
-* [Robust](https://github.com/Meituan-Dianping/Robust)
-
-### 事件总线
-* [EventBus](http://greenrobot.org/eventbus/)
-* [Otto](http://square.github.io/otto/)
- 
-### 性能工具
-* [LeakCanary](https://github.com/square/leakcanary)
-* [ACRA](https://github.com/ACRA/acra)
- 
-### 图表
-* [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
-* [WilliamChart](https://github.com/diogobernardino/WilliamChart)
-* [HelloCharts](https://github.com/lecho/hellocharts-android)
+* [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) -- 官方推荐，基于 Dagger
+* [Dagger](https://dagger.dev/)
+* [Koin](https://insert-koin.io/) -- 轻量的 Kotlin 依赖注入框架
+* [Metro](https://github.com/ZacSweers/metro) -- 编译期、多平台的 Kotlin 依赖注入框架
+* [kotlin-inject](https://github.com/evant/kotlin-inject)
 
 ### 响应式编程
+* [Kotlin Flow](https://developer.android.com/kotlin/flow)
 * [RxJava](https://github.com/ReactiveX/RxJava)
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid)
-* [Agera](https://github.com/google/agera)
-* [RxBinding](https://github.com/JakeWharton/RxBinding)
+
+### 端侧 AI 与大模型
+* [Android AI 开发指南](https://developer.android.com/ai)
+* [Gemini Nano](https://developer.android.com/ai/gemini-nano) -- 运行在设备上的 Gemini 模型
+* [ML Kit GenAI API](https://developers.google.com/ml-kit/genai) -- 基于端侧模型的摘要、改写、图片描述等能力
+* [Firebase AI Logic](https://firebase.google.com/docs/ai-logic) -- 在 App 中直接调用云端 Gemini 模型
+* [LiteRT](https://developers.google.com/edge/litert) -- TensorFlow Lite 的继任者，端侧机器学习与生成式 AI 运行时
+* [MediaPipe](https://developers.google.com/edge/mediapipe/solutions/guide) -- 端侧机器学习解决方案
+* [Koog](https://github.com/JetBrains/koog) -- JetBrains 开源的 Kotlin AI Agent 框架
+* [ai-samples](https://github.com/android/ai-samples) -- 官方 AI 示例
+* [Gemini in Android Studio](https://developer.android.com/studio/gemini/overview) -- Android Studio 内置的 AI 编程助手
+
+### 构建与性能
+* [KSP](https://github.com/google/ksp) -- Kotlin 符号处理，替代 kapt，迁移见 [官方指南](https://developer.android.com/build/migrate-to-ksp)
+* [版本目录](https://developer.android.com/build/migrate-to-catalogs) -- 统一管理依赖版本
+* [R8 应用优化](https://developer.android.com/topic/performance/app-optimization/enable-app-optimization) -- 代码压缩、混淆与优化
+* [Baseline Profiles](https://developer.android.com/topic/performance/baselineprofiles/overview) -- 提升启动与运行性能
+* [Macrobenchmark](https://developer.android.com/topic/performance/benchmarking/macrobenchmark-overview) -- 启动、滑动等场景的性能基准测试
+* [Perfetto](https://perfetto.dev/) -- 系统级性能追踪与分析
+* [LeakCanary](https://square.github.io/leakcanary/) -- 内存泄漏检测
+* [KOOM](https://github.com/KwaiAppTeam/KOOM) -- 快手开源的 OOM 监控
+* [16 KB 页面大小适配](https://developer.android.com/guide/practices/page-sizes)
+
+### 稳定性监控
+* [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics)
+* [Sentry](https://github.com/getsentry/sentry-java)
+* [ACRA](https://github.com/ACRA/acra)
+
+### 测试
+* [Android 测试指南](https://developer.android.com/training/testing)
+* [Compose 测试](https://developer.android.com/develop/ui/compose/testing)
+* [Robolectric](https://github.com/robolectric/robolectric) -- 在 JVM 上运行 Android 测试
+* [MockK](https://github.com/mockk/mockk) -- Kotlin Mock 框架
+* [Turbine](https://github.com/cashapp/turbine) -- Kotlin Flow 测试库
+* [Paparazzi](https://github.com/cashapp/paparazzi) -- 无需设备的截图测试
+* [Roborazzi](https://github.com/takahirom/roborazzi) -- 基于 Robolectric 的截图测试
+
+### 图表
+* [Vico](https://github.com/patrykandpatrick/vico) -- 支持 Compose Multiplatform 的图表库
+* [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 
 ### 日志框架
-* [Logger](https://github.com/orhanobut/logger)
 * [Timber](https://github.com/JakeWharton/timber)
+* [Logger](https://github.com/orhanobut/logger)
+
+### 动态化与热修复
+* [Tinker](https://github.com/Tencent/tinker) -- 腾讯开源的热修复方案
+* [Shadow](https://github.com/Tencent/Shadow) -- 腾讯开源的零反射全动态插件框架
+
+### 新平台与新能力
+* [Android XR](https://developer.android.com/develop/xr)
+* [Credential Manager](https://developer.android.com/identity/credential-manager) -- 统一的通行密钥、密码与联合登录 API
 
 第二部分&nbsp;&nbsp;&nbsp;&nbsp;博客社区
 --
 ### 个人博客
-* [老罗的Android之旅](http://blog.csdn.net/luoshengyang)
-* [泡在网上的日子](http://www.jcodecraeer.com/)
-* [Trinea](http://www.trinea.cn/)
-* [郭霖](http://blog.csdn.net/guolin_blog)
-* [夏安明](http://blog.csdn.net/xiaanming)
-* [鸿阳](http://blog.csdn.net/lmj623565791)
-* [任玉刚](http://blog.csdn.net/singwhatiwanna)
-* [云在千峰](http://blog.chengyunfeng.com/)
-* [胡凯](http://hukai.me/)
-* [stormzhang](http://stormzhang.com/)
+* [老罗的Android之旅](https://blog.csdn.net/luoshengyang)
+* [Trinea](https://www.trinea.cn/)
+* [郭霖](https://blog.csdn.net/guolin_blog)
+* [夏安明](https://blog.csdn.net/xiaanming)
+* [鸿洋](https://blog.csdn.net/lmj623565791)
+* [任玉刚](https://blog.csdn.net/singwhatiwanna)
+* [stormzhang](https://stormzhang.com/)
 * [马天宇](https://github.com/litesuits)
-* [江清清的技术专栏](http://www.lcode.org/)
-* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+* [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
 * [张涛-开源实验室](http://blog.kymjs.com/)
 * [谢权SELF](https://xiequan.info/)
-* [Mr.Simple](http://blog.csdn.net/bboyfeiyu)
-* [技术小黑屋](http://droidyue.com/)
-* [Drakeet的个人博客](https://drakeet.me/)
-* [eclipse_xu](http://blog.csdn.net/eclipsexys)
-* [子墨博客](http://blog.csdn.net/ElinaVampire)
-* [巫山老妖](http://blog.csdn.net/wwj_748)
-* [AigeStudio](http://blog.csdn.net/aigestudio)
-* [雨松MOMO程序研究院](http://www.xuanyusong.com/)
-* [包建强](http://blog.csdn.net/jspandasp)
-* [邓凡平](http://blog.csdn.net/innost)
-* [hujiaweibujidao](http://hujiaweibujidao.github.io/)
-* [何红辉](http://blog.csdn.net/bboyfeiyu)
-* [Piasy](http://blog.piasy.com/)
-* [元斌](http://blog.csdn.net/qibin0506)
-* [赵四](http://blog.csdn.net/jiangwei0910410003)
-* [weishu](http://weishu.me/)
-* [严振杰](http://blog.csdn.net/yanzhenjie1003)
-* [切问录](http://www.fuzihao.org/blog/)
-* [猴子搬来的救兵](http://blog.csdn.net/mynameishuangshuai)
+* [何红辉（Mr.Simple）](https://blog.csdn.net/bboyfeiyu)
+* [技术小黑屋](https://droidyue.com/)
+* [eclipse_xu](https://blog.csdn.net/eclipsexys)
+* [子墨博客](https://blog.csdn.net/ElinaVampire)
+* [巫山老妖](https://blog.csdn.net/wwj_748)
+* [AigeStudio](https://blog.csdn.net/aigestudio)
+* [雨松MOMO程序研究院](https://www.xuanyusong.com/)
+* [包建强](https://blog.csdn.net/jspandasp)
+* [邓凡平](https://blog.csdn.net/innost)
+* [Piasy](https://blog.piasy.com/)
+* [元斌](https://blog.csdn.net/qibin0506)
+* [赵四](https://blog.csdn.net/jiangwei0910410003)
+* [weishu](https://weishu.me/)
+* [严振杰](https://blog.csdn.net/yanzhenjie1003)
+* [猴子搬来的救兵](https://blog.csdn.net/mynameishuangshuai)
 * [markzhai](http://blog.zhaiyifan.cn/)
-* [兰亭风雨](http://blog.csdn.net/ns_code)
-* [谦虚的天下](http://www.cnblogs.com/qianxudetianxia/)
-* [工匠若水](http://blog.csdn.net/yanbober)
-* [diygreen](http://www.jianshu.com/u/0ad0a0afc409)
+* [兰亭风雨](https://blog.csdn.net/ns_code)
+* [谦虚的天下](https://www.cnblogs.com/qianxudetianxia)
+* [工匠若水](https://blog.csdn.net/yanbober)
+* [diygreen](https://www.jianshu.com/u/0ad0a0afc409)
 * [VERYYOUNG](http://veryyoung.me/)
-* [左飞](http://blog.csdn.net/baimafujinji)
+* [左飞](https://blog.csdn.net/baimafujinji)
 * [Frodo](http://frodoking.github.io/)
-* [青峰](http://www.fqxyi.com/)
-* [拉丁吴](http://www.jianshu.com/u/1d8042233f67)
-* [Carson_Ho](http://blog.csdn.net/carson_ho)
+* [拉丁吴](https://www.jianshu.com/u/1d8042233f67)
+* [Carson_Ho](https://blog.csdn.net/carson_ho)
 * [Gityuan](http://gityuan.com/)
-* [GcsSloop](http://www.gcssloop.com/)
-* [吴小龙同学](http://wuxiaolong.me/)
-* [设计师吴彦祖](http://liangjingkanji.coding.me/) 
-* [frank的专栏](http://blog.csdn.net/briblue)
-* [zjutkz's blog](http://zjutkz.net/)
-* [Gavin Liu](http://gavinliu.cn/)
+* [GcsSloop](https://www.gcssloop.com/)
+* [frank的专栏](https://blog.csdn.net/briblue)
+* [Gavin Liu](https://www.gavinliu.cn/)
 * [SpikeKing](https://www.jianshu.com/u/e2b4dd6d3eb4)
 * [田野光的技术小站](https://wangyeming.github.io/)
 * [Coder-Pig](https://blog.csdn.net/coder_pig)
-* [Android Performance](https://www.androidperformance.com)
-* [Gityuan博客](http://gityuan.com/)
+* [Android Performance](https://www.androidperformance.com/)
 * [欧阳鹏](https://blog.csdn.net/ouyang_peng)
 * [寒江蓑笠](https://www.heqiangfly.com/)
-* [却把清梅嗅](https://juejin.im/user/588555ff1b69e600591e8462)
+* [却把清梅嗅](https://juejin.cn/user/1503787635450584)
 * [bugstack虫洞栈](https://bugstack.cn/)
 * [奋飞安全](http://91fans.com.cn/)
 * [一枚码农](https://www.javagame.top/index.html)
 
 ### 团队博客
-* [Android官方技术博客](http://android-developers.blogspot.com/)
-* [美团点评技术团队](http://tech.meituan.com/)
-* [腾讯全端 AlloyTeam 团队](http://www.alloyteam.com/)
-* [腾讯大讲堂](http://djt.qq.com/)
-* [奇迹空间技术学习小组](http://blog.qiji.tech/)
-* [Square](https://corner.squareup.com/)
-* [Facebook](https://code.facebook.com/)
-* [腾讯游戏安全实验室](http://gslab.qq.com/)
-* [腾讯Bugly社区](http://bugly.qq.com/bbs/portal.php)
-* [DEV CLUB](http://dev.qq.com/)
-* [腾讯Gad](http://gad.qq.com/program)
+* [Android Developers Blog](https://android-developers.googleblog.com/) -- Android 官方技术博客
+* [Kotlin Blog](https://blog.jetbrains.com/kotlin/) -- Kotlin 官方博客
+* [美团技术团队](https://tech.meituan.com/)
+* [腾讯 AlloyTeam](http://www.alloyteam.com/)
+* [Square Developer Blog](https://developer.squareup.com/blog/)
+* [Meta Engineering](https://engineering.fb.com/)
+* [腾讯游戏安全实验室](https://gslab.qq.com/)
 
 ### 技术社区
-* [CSDN](http://www.csdn.net/)
-* [博客园](http://www.cnblogs.com/)
-* [ITEYE](http://www.iteye.com/)
+* [CSDN](https://www.csdn.net/)
+* [博客园](https://www.cnblogs.com/)
 * [51CTO](http://www.51cto.com/)
-* [开源中国](http://www.oschina.net/)
-* [Linux公社](http://www.linuxidc.com/)
-* [EOE](http://www.eoeandroid.com/)
+* [开源中国](https://www.oschina.net/)
 * [CocoaChina](http://www.cocoachina.com/)
-* [深度开源](http://www.open-open.com/)
-* [伯乐在线](http://blog.jobbole.com/)
-* [ImportNew](http://www.importnew.com/)
-* [稀土掘金](http://gold.xitu.io/)
-* [IMB developerWorks](http://www.ibm.com/developerworks/cn/)
-* [segmentfault](https://segmentfault.com/)
-* [InfoQ](http://www.infoq.com/cn/)
-* [ChinaUnix](http://blog.chinaunix.net/)
-* [ITPUB](http://blog.itpub.net/)
-* [开发者头条](http://toutiao.io/)
-* [Android安全中文站](http://www.droidsec.cn/)
-* [菜鸟教程](http://www.runoob.com/)
+* [深度开源](https://www.open-open.com/)
+* [稀土掘金](https://juejin.cn/)
+* [IBM Developer](https://developer.ibm.com/)
+* [SegmentFault](https://segmentfault.com/)
+* [InfoQ](https://www.infoq.cn/)
+* [ChinaUnix](https://blog.chinaunix.net/)
+* [ITPUB](https://blog.itpub.net/)
+* [开发者头条](https://toutiao.io/)
+* [菜鸟教程](https://www.runoob.com/)
 * [V2EX](https://www.v2ex.com/)
-* [FreeBuf](http://www.freebuf.com/)
+* [FreeBuf](https://www.freebuf.com/)
 * [Google开发者官方频道](http://i.youku.com/i/UMjczOTc0NDkzNg==)
-* [GDG中国社区论坛](http://www.chinagdg.com/)
-* [谷歌中国博客](http://developers.googleblog.cn)
+* [GDG中国社区论坛](https://www.chinagdg.com/)
 * [小专栏](https://xiaozhuanlan.com/)
- 
+
 ### 技术周报
-* [编程狂人](http://www.tuicool.com/mags/)
-* [Android开发技术周报](http://androidweekly.cn/)
-* [APP开发日报](http://app.memect.com/)
-* [码农周刊](http://weekly.manong.io/issues/)
-* [干货集中营](http://gank.io/history)
-* [平安金融科技移动技术周报](http://www.jianshu.com/notebooks/2983917/latest)
-* [Android博客周刊](http://androidblog.cn/)
-* [Android Weekly](http://androidweekly.net/)
+* [Android Weekly](https://androidweekly.net/)
+* [Kotlin Weekly](https://kotlinweekly.net/)
+* [Android开发技术周报](https://androidweekly.io/)
+* [平安金融科技移动技术周报](https://www.jianshu.com/notebooks/2983917/latest)
 
 第三部分&nbsp;&nbsp;&nbsp;&nbsp;技术书籍
 --

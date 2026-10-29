@@ -1,0 +1,4 @@
+# 私有内容与临时文件
+.private/
+.tmp/
+.DS_Store
