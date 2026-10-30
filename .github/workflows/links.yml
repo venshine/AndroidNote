@@ -15,7 +15,8 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      # 豆瓣、CSDN、简书会拦截程序访问，检查结果不可靠，排除在外
+      # 豆瓣、CSDN、简书会拦截程序访问，检查结果不可靠，排除在外；
+      # alloyteam、cocoachina、piasy、xiequan、小专栏从 GitHub 的海外运行器无法连接（国内访问正常），也排除在外
       - name: Check links
         id: lychee
         uses: lycheeverse/lychee-action@v2
@@ -24,10 +25,15 @@ jobs:
             --no-progress
             --max-retries 3
             --timeout 30
-            --accept 200..=299,403,429
+            --accept 200..=299,403,405,429
             --exclude douban\.com
             --exclude csdn\.net
             --exclude jianshu\.com
+            --exclude alloyteam\.com
+            --exclude cocoachina\.com
+            --exclude blog\.piasy\.com
+            --exclude xiequan\.info
+            --exclude xiaozhuanlan\.com
             README.md README-CN.md
           output: ./lychee/out.md
           fail: false
