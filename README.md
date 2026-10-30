@@ -270,21 +270,21 @@ Part 3: Books
 * [Foundations of Computer Science](https://book.douban.com/subject/1142213/)  
 An introductory textbook covering every area of computer science, focusing on concepts rather than mathematical models, with many figures and examples.
 
-* [Computer Systems: A Programmer's Perspective](https://book.douban.com/subject/5333562/)  
-Explains the essential concepts of computer systems from a programmer's point of view, and how they affect the correctness, performance and usefulness of programs.
+* [Computer Systems: A Programmer's Perspective (3rd edition)](https://book.douban.com/subject/26912767/)  
+Explains the essential concepts of computer systems from a programmer's point of view, and how they affect the correctness, performance and usefulness of programs. The 3rd edition is based on x86-64.
 
 ### Operating Systems
-* [Modern Operating Systems](https://book.douban.com/subject/3852290/)  
+* [Modern Operating Systems (4th edition)](https://book.douban.com/subject/27096665/)  
 A classic on the principles of operating systems: processes, threads, memory management, file systems, I/O, deadlocks, security, multimedia, virtualization and OS design.
 
-* [Operating Systems: Internals and Design Principles](https://book.douban.com/subject/5064311/)   
+* [Operating Systems: Internals and Design Principles (8th edition)](https://book.douban.com/subject/30770794/)  
 Covers the concepts, principles and methods of operating systems, and the nature and characteristics of modern operating systems.
 
 ### Computer Architecture
-* [Computer Architecture: A Quantitative Approach](https://book.douban.com/subject/20452387/)   
+* [Computer Architecture: A Quantitative Approach (6th edition)](https://book.douban.com/subject/36108789/)  
 The definitive book on computer architecture: design fundamentals, instruction sets, pipelining and instruction-level parallelism, memory hierarchy, interconnection networks and multiprocessors.
 
-* [Computer Organization and Design: The Hardware/Software Interface](https://book.douban.com/subject/2110638/)  
+* [Computer Organization and Design: The Hardware/Software Interface (5th edition)](https://book.douban.com/subject/26604008/)  
 A classic textbook on computer organization that shows the relationship between hardware and software.
 
 * [Computer Organization and Architecture: Designing for Performance](https://book.douban.com/subject/6398113/)  
@@ -300,14 +300,14 @@ Relates performance issues of modern computer systems to the principles of compu
 * [Computer Networks](https://book.douban.com/subject/10510747/)  
 One of the most widely used networking textbooks, covering the protocol stack bottom-up with many Internet examples, plus wireless, 3G, RFID, CDN, P2P and streaming.
 
-* [Computer Networking: A Top-Down Approach](https://book.douban.com/subject/26176870/)  
+* [Computer Networking: A Top-Down Approach (8th edition)](https://book.douban.com/subject/36081529/)  
 The textbook that pioneered teaching network principles and protocols top-down.
 
 * [Understanding Computer Networks](https://book.douban.com/subject/20560942/)  
 A systematic and in-depth look at network architecture, how networks work and how protocols are implemented.
 
-* [TCP/IP Illustrated, Volume 1: The Protocols](https://book.douban.com/subject/1088054/)  
-A complete and detailed guide to the TCP/IP protocols at every layer and how they behave on different operating systems.
+* [TCP/IP Illustrated, Volume 1: The Protocols (2nd edition)](https://book.douban.com/subject/26825411/)  
+A complete and detailed guide to the TCP/IP protocols at every layer and how they behave on different operating systems. The 2nd edition, updated by Kevin R. Fall, covers IPv4 / IPv6 and the main protocols from the link layer to the application layer.
 
 * [TCP/IP Illustrated, Volume 2: The Implementation](https://book.douban.com/subject/1087767/)  
 A detailed walkthrough of how TCP/IP is implemented.
@@ -322,19 +322,16 @@ A classic introduction to the TCP/IP protocol suite.
 Explains how HTTP works, how to build web applications with it, and how to implement clients and servers correctly.
 
 ### Databases
-* [Database System Concepts](https://book.douban.com/subject/10548379/)  
+* [Database System Concepts (7th edition)](https://book.douban.com/subject/35501216/)  
 A cornerstone book for building a solid foundation in database theory.
 
 * [Database Systems: The Complete Book](https://book.douban.com/subject/4838430/)  
 One of the most comprehensive books on implementing database systems, used in Stanford's database course series.
 
-* [High Performance MySQL](https://book.douban.com/subject/23008813/)  
+* [High Performance MySQL (4th edition)](https://book.douban.com/subject/36096578/)  
 A classic and influential book on MySQL.
 
-* [The Definitive Guide to MySQL 5](https://book.douban.com/subject/1909003/)  
-A reference for MySQL administrators and developers.
-
-* [MongoDB: The Definitive Guide](https://book.douban.com/subject/25798102/)  
+* [MongoDB: The Definitive Guide (3rd edition)](https://book.douban.com/subject/35688800/)  
 Covers MongoDB's document model, queries, indexing, aggregation, monitoring, security, backup and sharding.
 
 * [Redis Design and Implementation](https://book.douban.com/subject/25900156/)  
@@ -342,6 +339,9 @@ A thorough description of how Redis works internally.
 
 * [NoSQL Distilled](https://book.douban.com/subject/25662138/)  
 Compares relational and NoSQL databases, and explains key-value, document, column-family and graph databases using Riak, MongoDB, Cassandra and Neo4j.
+
+* [Designing Data-Intensive Applications](https://book.douban.com/subject/30329536/)  
+Explains the design principles of modern data systems: data models, storage engines, replication, partitioning, transactions, distributed consistency, and batch and stream processing.
 
 ### Compilers
 * [Compilers: Principles, Techniques, and Tools](https://book.douban.com/subject/3296317/)  
@@ -351,7 +351,7 @@ The "Dragon Book": lexical analysis, parsing, syntax-directed translation, runti
 * [Data Structures and Algorithm Analysis in C](https://book.douban.com/subject/1139426/)  
 A classic that explains abstract data types and analyzes the efficiency and running time of algorithms, with implementations in C.
 
-* [Data Structures and Algorithm Analysis in Java](https://book.douban.com/subject/3351237/)  
+* [Data Structures and Algorithm Analysis in Java (3rd edition)](https://book.douban.com/subject/26745780/)  
 The Java edition, combining algorithm analysis with the development of efficient Java programs.
 
 * [Fundamentals of Data Structures in C](https://book.douban.com/subject/1886174/)  
@@ -377,7 +377,7 @@ Professional knowledge presented in a highly readable way.
 A Chinese book that explains the 23 GoF patterns through dialogues, stories and examples.
 
 ### Software Engineering
-* [Software Engineering: A Practitioner's Approach](https://book.douban.com/subject/6047742/)  
+* [Software Engineering: A Practitioner's Approach (8th edition)](https://book.douban.com/subject/26918148/)  
 A highly regarded reference on the concepts, principles, methods and tools of software engineering since 1982.
 
 * [Software Engineering](https://book.douban.com/subject/6109617/)  
@@ -431,24 +431,27 @@ Describes the main subsystems of the Linux kernel, their design, implementation 
 * [Linux and the Unix Philosophy](https://book.douban.com/subject/7564417/)    
 Summarizes the design principles of Linux and Unix software development.
 
-* [Vbird's Linux Book: Basic Learning (3rd edition)](https://book.douban.com/subject/4889838/)  
+* [Vbird's Linux Book: Basic Learning (4th edition)](https://book.douban.com/subject/30359954/)  
 One of the best-known introductions to Linux, with detailed explanations and many hands-on examples.
 
 * [Vbird's Linux Book: Server Setup (3rd edition)](https://book.douban.com/subject/10794788/)     
 For readers who know Linux basics and want to set up and maintain servers.
 
-* [Advanced Programming in the UNIX Environment](https://book.douban.com/subject/1788421/)  
+* [Advanced Programming in the UNIX Environment (3rd edition)](https://book.douban.com/subject/25900403/)  
 Known as the "bible" of UNIX programming, an indispensable reference for UNIX programmers.
 
 ### Android
-* [The Definitive Guide to Android Development](https://book.douban.com/subject/25741542/)  
-A comprehensive book on Android app development.
+* [The First Line of Code (3rd edition)](https://book.douban.com/subject/34996842/)  
+Known among Chinese developers as "the first book for learning Android", a step-by-step introduction. The 3rd edition uses Kotlin.
 
-* [The First Line of Code](https://book.douban.com/subject/26915433/)  
-Known among Chinese developers as "the first book for learning Android", a step-by-step introduction.
+* [Kotlin in Action](https://book.douban.com/subject/27093660/)  
+Written by members of the Kotlin team at JetBrains, it covers the syntax and features of Kotlin and how to use it in real projects.
 
-* [Android Kernel Analysis](https://book.douban.com/subject/6811238/)  
-Analyzes the window manager, activity manager, input method framework and build system of Android.
+* [Understanding Kotlin Coroutines in Depth](https://book.douban.com/subject/35094136/)  
+Explains the concepts, implementation and usage of Kotlin coroutines.
+
+* [Effective Kotlin](https://book.douban.com/subject/35341362/)  
+Best practices for writing safe, readable and efficient Kotlin code (English).
 
 * [Exploring the Art of Android Development](https://book.douban.com/subject/26599538/)  
 An advanced Android book combining theory, source code and practice.
@@ -456,11 +459,8 @@ An advanced Android book combining theory, source code and practice.
 * [Design Patterns in Android Source Code](https://book.douban.com/subject/26644935/)    
 Analyzes how design patterns are used in the Android source code.
 
-* [Inside Android 5.0](https://book.douban.com/subject/26377840/)    
-Analyzes the principles and implementation of the main frameworks of Android 5.0.
-
-* [Understanding the Design of the Android Kernel](https://book.douban.com/subject/25921329/)   
+* [Understanding the Design of the Android Kernel (2nd edition)](https://book.douban.com/subject/27074612/)  
 Covers processes and threads, memory management, Binder, the display system, multimedia and input in Android.
 
-* [Android Software Security and Reverse Engineering](https://book.douban.com/subject/20556210/)    
-Covers static analysis, dynamic debugging, cracking and anti-cracking techniques, and analysis of typical Android malware.
+* [Android Advanced Decryption](https://book.douban.com/subject/30358046/)  
+Analyzes Android system startup, how the four app components work, ClassLoader, hotfix and plugin frameworks from the source code.
