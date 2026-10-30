@@ -1,0 +1,50 @@
+name: Check links
+
+on:
+  schedule:
+    - cron: "0 1 1 * *" # 每月 1 日 01:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      # 豆瓣、CSDN、简书会拦截程序访问，检查结果不可靠，排除在外
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --max-retries 3
+            --timeout 30
+            --accept 200..=299,403,429
+            --exclude douban\.com
+            --exclude csdn\.net
+            --exclude jianshu\.com
+            README.md README-CN.md
+          output: ./lychee/out.md
+          fail: false
+
+      # 有失效链接时更新已有的报告 issue，没有则新建；全部正常时不打扰
+      - name: Find existing report
+        if: steps.lychee.outputs.exit_code != 0
+        id: issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: echo "number=$(gh issue list -R "$GITHUB_REPOSITORY" --label broken-links --state open --json number --jq '.[0].number // empty')" >> "$GITHUB_OUTPUT"
+
+      - name: Report broken links
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v6
+        with:
+          title: Broken links report
+          content-filepath: ./lychee/out.md
+          labels: broken-links
+          issue-number: ${{ steps.issue.outputs.number }}

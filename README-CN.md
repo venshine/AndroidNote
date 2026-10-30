@@ -5,7 +5,7 @@ Android 进阶笔记
 
 精选 Android 开发相关的官方文档、开源框架、博客社区与经典书籍。
 
-> 最后更新：2026-10-29。收录的链接均在更新时验证可访问；已停止维护、已归档或无法访问的内容已移除。
+> 最后更新：2026-10-30。收录的链接均在更新时验证可访问；已停止维护、已归档或无法访问的内容已移除。
 
 大纲
 --
@@ -208,7 +208,6 @@ Android 进阶笔记
 * [谦虚的天下](https://www.cnblogs.com/qianxudetianxia)
 * [工匠若水](https://blog.csdn.net/yanbober)
 * [diygreen](https://www.jianshu.com/u/0ad0a0afc409)
-* [VERYYOUNG](http://veryyoung.me/)
 * [左飞](https://blog.csdn.net/baimafujinji)
 * [Frodo](http://frodoking.github.io/)
 * [拉丁吴](https://www.jianshu.com/u/1d8042233f67)
@@ -226,7 +225,6 @@ Android 进阶笔记
 * [却把清梅嗅](https://juejin.cn/user/1503787635450584)
 * [bugstack虫洞栈](https://bugstack.cn/)
 * [奋飞安全](http://91fans.com.cn/)
-* [一枚码农](https://www.javagame.top/index.html)
 
 ### 团队博客
 * [Android Developers Blog](https://android-developers.googleblog.com/) -- Android 官方技术博客

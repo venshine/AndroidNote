@@ -5,7 +5,7 @@ English | [简体中文](README-CN.md)
 
 A curated list of official documentation, open-source libraries, blogs, communities and classic books for Android development.
 
-> Last updated: 2026-10-29. All links were checked when this list was updated; unmaintained, archived or unreachable entries have been removed. Many of the blogs, communities and books are in Chinese.
+> Last updated: 2026-10-30. All links were checked when this list was updated; unmaintained, archived or unreachable entries have been removed. Many of the blogs, communities and books are in Chinese.
 
 Contents
 --
@@ -208,7 +208,6 @@ Part 2: Blogs and Communities
 * [qianxudetianxia](https://www.cnblogs.com/qianxudetianxia)
 * [yanbober](https://blog.csdn.net/yanbober)
 * [diygreen](https://www.jianshu.com/u/0ad0a0afc409)
-* [VERYYOUNG](http://veryyoung.me/)
 * [Zuo Fei](https://blog.csdn.net/baimafujinji)
 * [Frodo](http://frodoking.github.io/)
 * [Lading Wu](https://www.jianshu.com/u/1d8042233f67)
@@ -226,7 +225,6 @@ Part 2: Blogs and Communities
 * [Juejin user 1503787635450584](https://juejin.cn/user/1503787635450584)
 * [bugstack](https://bugstack.cn/)
 * [Fenfei Security](http://91fans.com.cn/)
-* [javagame.top](https://www.javagame.top/index.html)
 
 ### Team Blogs
 * [Android Developers Blog](https://android-developers.googleblog.com/) -- the official Android blog
